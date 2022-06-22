@@ -10,12 +10,12 @@
   <p align="center">
     Minecraft Server implementation written in Go
     <br />
+    forked from https://github.com/steve-nzr/gocraft
     <br />
-    <a href="https://github.com/GoLangMc/minecraft-server/issues">Report Bug</a>
+    <a href="https://github.com/Brudderbot/Gomc/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GoLangMc/minecraft-server/issues">Request Feature</a>
+    <a href="https://github.com/Brudderbot/Gomc/issues">Request Feature</a>
     ·
-    <a href="https://github.com/GoLangMc/minecraft-server/pulls">Send a Pull Request</a>
+    <a href="https://github.com/Brudderbot/Gomc/pulls">Send a Pull Request</a>
   </p>
-  
-</p>
+
