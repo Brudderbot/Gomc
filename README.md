@@ -2,7 +2,7 @@
 <p align="center">
 
   <a href="https://github.com/GoLangMc/minecraft-server">
-    <img src="https://avatars3.githubusercontent.com/u/61735329" alt="logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/Brudderbot/Gomc/master/gomc.png" alt="logo" width="100" height="100">
   </a>
 
   <h3 align="center">minecraft-server</h3>
