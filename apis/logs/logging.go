@@ -8,8 +8,8 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/golangmc/minecraft-server/apis/base"
-	"github.com/golangmc/minecraft-server/apis/data/chat"
+	"github.com/Brudderbot/Gomc/apis/base"
+	"github.com/Brudderbot/Gomc/apis/data/chat"
 )
 
 type LogLevel int

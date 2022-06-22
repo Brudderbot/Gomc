@@ -1,8 +1,8 @@
 package cmds
 
 import (
-	"github.com/golangmc/minecraft-server/apis/base"
-	"github.com/golangmc/minecraft-server/apis/ents"
+	"github.com/Brudderbot/Gomc/apis/base"
+	"github.com/Brudderbot/Gomc/apis/ents"
 )
 
 type Command interface {

@@ -6,10 +6,10 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/data"
-	"github.com/golangmc/minecraft-server/apis/data/tags"
-	"github.com/golangmc/minecraft-server/apis/uuid"
+	"github.com/Brudderbot/Gomc/apis/buff"
+	"github.com/Brudderbot/Gomc/apis/data"
+	"github.com/Brudderbot/Gomc/apis/data/tags"
+	"github.com/Brudderbot/Gomc/apis/uuid"
 )
 
 /*

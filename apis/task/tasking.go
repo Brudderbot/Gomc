@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/golangmc/minecraft-server/apis/base"
+	"github.com/Brudderbot/Gomc/apis/base"
 )
 
 type Task struct {

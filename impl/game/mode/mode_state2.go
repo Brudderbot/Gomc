@@ -4,16 +4,16 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/golangmc/minecraft-server/apis/data/chat"
-	"github.com/golangmc/minecraft-server/apis/data/msgs"
-	"github.com/golangmc/minecraft-server/apis/game"
-	"github.com/golangmc/minecraft-server/apis/util"
-	"github.com/golangmc/minecraft-server/apis/uuid"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/game/auth"
-	"github.com/golangmc/minecraft-server/impl/game/ents"
-	"github.com/golangmc/minecraft-server/impl/prot/client"
-	"github.com/golangmc/minecraft-server/impl/prot/server"
+	"github.com/Brudderbot/Gomc/apis/data/chat"
+	"github.com/Brudderbot/Gomc/apis/data/msgs"
+	"github.com/Brudderbot/Gomc/apis/game"
+	"github.com/Brudderbot/Gomc/apis/util"
+	"github.com/Brudderbot/Gomc/apis/uuid"
+	"github.com/Brudderbot/Gomc/impl/base"
+	"github.com/Brudderbot/Gomc/impl/game/auth"
+	"github.com/Brudderbot/Gomc/impl/game/ents"
+	"github.com/Brudderbot/Gomc/impl/prot/client"
+	"github.com/Brudderbot/Gomc/impl/prot/server"
 )
 
 /**

@@ -1,9 +1,9 @@
 package client
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/data/msgs"
-	"github.com/golangmc/minecraft-server/impl/base"
+	"github.com/Brudderbot/Gomc/apis/buff"
+	"github.com/Brudderbot/Gomc/apis/data/msgs"
+	"github.com/Brudderbot/Gomc/impl/base"
 )
 
 // done

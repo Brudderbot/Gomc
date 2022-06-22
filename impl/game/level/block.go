@@ -1,7 +1,7 @@
 package level
 
 import (
-	apis_level "github.com/golangmc/minecraft-server/apis/game/level"
+	apis_level "github.com/Brudderbot/Gomc/apis/game/level"
 )
 
 type block struct {

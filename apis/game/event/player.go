@@ -1,6 +1,6 @@
 package event
 
-import "github.com/golangmc/minecraft-server/apis/ents"
+import "github.com/Brudderbot/Gomc/apis/ents"
 
 type PlayerEvent struct {
 	ents.Player

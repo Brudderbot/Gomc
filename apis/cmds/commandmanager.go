@@ -3,7 +3,7 @@ package cmds
 import (
 	"strings"
 
-	"github.com/golangmc/minecraft-server/apis/ents"
+	"github.com/Brudderbot/Gomc/apis/ents"
 )
 
 type CommandManager struct {

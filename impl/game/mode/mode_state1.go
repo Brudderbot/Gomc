@@ -1,11 +1,11 @@
 package mode
 
 import (
-	"github.com/golangmc/minecraft-server/apis/util"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/data/status"
-	"github.com/golangmc/minecraft-server/impl/prot/client"
-	"github.com/golangmc/minecraft-server/impl/prot/server"
+	"github.com/Brudderbot/Gomc/apis/util"
+	"github.com/Brudderbot/Gomc/impl/base"
+	"github.com/Brudderbot/Gomc/impl/data/status"
+	"github.com/Brudderbot/Gomc/impl/prot/client"
+	"github.com/Brudderbot/Gomc/impl/prot/server"
 )
 
 /**

@@ -1,7 +1,7 @@
 package level
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
+	"github.com/Brudderbot/Gomc/apis/buff"
 )
 
 type Slice interface {

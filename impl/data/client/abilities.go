@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/impl/mask"
+	"github.com/Brudderbot/Gomc/apis/buff"
+	"github.com/Brudderbot/Gomc/impl/mask"
 )
 
 type PlayerAbilities struct {

@@ -1,6 +1,6 @@
 package base
 
-import "github.com/golangmc/minecraft-server/apis/ents"
+import "github.com/Brudderbot/Gomc/apis/ents"
 
 type PlayerAndConnection struct {
 	Connection

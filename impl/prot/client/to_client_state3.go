@@ -1,18 +1,18 @@
 package client
 
 import (
-	"github.com/golangmc/minecraft-server/apis/buff"
-	"github.com/golangmc/minecraft-server/apis/data"
-	"github.com/golangmc/minecraft-server/apis/data/msgs"
-	"github.com/golangmc/minecraft-server/apis/ents"
-	"github.com/golangmc/minecraft-server/apis/game"
-	"github.com/golangmc/minecraft-server/apis/game/level"
-	"github.com/golangmc/minecraft-server/apis/uuid"
-	"github.com/golangmc/minecraft-server/impl/base"
-	"github.com/golangmc/minecraft-server/impl/data/client"
-	"github.com/golangmc/minecraft-server/impl/data/plugin"
+	"github.com/Brudderbot/Gomc/apis/buff"
+	"github.com/Brudderbot/Gomc/apis/data"
+	"github.com/Brudderbot/Gomc/apis/data/msgs"
+	"github.com/Brudderbot/Gomc/apis/ents"
+	"github.com/Brudderbot/Gomc/apis/game"
+	"github.com/Brudderbot/Gomc/apis/game/level"
+	"github.com/Brudderbot/Gomc/apis/uuid"
+	"github.com/Brudderbot/Gomc/impl/base"
+	"github.com/Brudderbot/Gomc/impl/data/client"
+	"github.com/Brudderbot/Gomc/impl/data/plugin"
 
-	apis_conn "github.com/golangmc/minecraft-server/impl/conn"
+	apis_conn "github.com/Brudderbot/Gomc/impl/conn"
 )
 
 type PacketOChatMessage struct {

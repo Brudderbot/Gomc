@@ -1,6 +1,6 @@
 package level
 
-import "github.com/golangmc/minecraft-server/apis/base"
+import "github.com/Brudderbot/Gomc/apis/base"
 
 type Level interface {
 	base.Named
